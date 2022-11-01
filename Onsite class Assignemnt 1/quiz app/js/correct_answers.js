@@ -1,0 +1,1 @@
+const correctAnswers = [6 , 16 , 1 , 5 , ["apple","banana"]];
